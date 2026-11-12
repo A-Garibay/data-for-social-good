@@ -14,7 +14,7 @@ Use your knowledge of object-oriented programming, one-dimensional (1D) arrays, 
 - **Document your code** – Use comments to explain the purpose of the methods and code segments and note any preconditions and postconditions.
 
 ## User Story 
-
+![alt text](image.png)
 As an beginner photographer,
 I want to know what is the best vintange camera,
 so that I can capture nostalgic-looking photos.
