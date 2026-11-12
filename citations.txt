@@ -1,0 +1,11 @@
+Not AI:
+  Used Mr. Aiello's code as an example of "weighted sum average" in code.
+
+  Searched in "java.lang-String" documentation for toLowerCase(), as I knew it existed but I wanted to know how to use it.
+
+AI:
+  Asked AI how I can count something from what it starts with(.startsWith()):
+  https://chatgpt.com/share/6af54358-ed00-83e8-a08e-64e51e2b7677
+
+  Asked AI to write comments for UserStory and Cameras (used as needed):
+  https://chatgpt.com/share/6af552c4-ac84-83e8-bc77-9258a3b74eb1
