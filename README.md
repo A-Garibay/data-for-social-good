@@ -18,8 +18,8 @@ Use your knowledge of object-oriented programming, one-dimensional (1D) arrays, 
 Include your User Story you analyzed for your project here. Your User Story should have the following format: 
 
 > As an beginner photographer,
-> I want to [goal], <br> 
-> so that I can [benefit].
+> I want to know what is the best wintange camera,
+> so that I can capture nostalgic-looking photos.
 
 ## Dataset 
 
