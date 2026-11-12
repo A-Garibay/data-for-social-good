@@ -16,15 +16,17 @@ Use your knowledge of object-oriented programming, one-dimensional (1D) arrays, 
 ## User Story 
 ![alt text](image.png)
 As an beginner photographer,
-I want to know what is the best vintange camera,
-so that I can capture nostalgic-looking photos.
+I want to know what is the best budget vintange camera,
+so that I can capture nostalgic-looking photos during the beginning of my career. 
 
 ## Dataset 
 
 Dataset: https://www.kaggle.com/datasets/crawford/1000-cameras-dataset?select=camera_dataset.csv
-- **Country** (String) - name of the country 
-- **Population** (int) - number of people in the country 
-- **CO2Emissions** (double) - carbon dioxide emission in kilotons 
+- **Model** (String) - name of the model
+- **Release Date** (int) - release date of the camera
+- **Max Resolution** (int) - max resolution of the camera in pixels
+- **Weight Including Batteries** (int) - weight of the camera in grams
+- **Price** (int) - price of  the camera in USD
 
 ## UML Diagram 
 
@@ -35,3 +37,4 @@ Put an image of your UML Diagram here. Upload the image of your UML Diagram to y
 ## Description 
 
 Write a description of your project here. In your description, include as many vocab words from our class to explain your User Story, the chosen dataset and how your project addressed that users goals. If your project used the Scanner class for user input, explain how the user will interact with your project.
+Our user story is about a up and coming photographer who wants to purchase a cheap, beginner friendly, vintage camera to be able to capture nostalgic photos for the beginning of his career. Our chosen data set gave us 1000 cameras from the years 1996-2007, it gave us data on price, max resolution, dimensions, weight, storage, and many others. Our project addressed user goals because we traversed the data set and found the objectively best camera from each company. This not only have our user options but it showed them what a good vintage camera looked like and how it would fit in their budget. In our code we utilized 1d-arrays.
