@@ -16,7 +16,7 @@ Use your knowledge of object-oriented programming, one-dimensional (1D) arrays, 
 ## User Story 
 
 As an beginner photographer,
-I want to know what is the best wintange camera,
+I want to know what is the best vintange camera,
 so that I can capture nostalgic-looking photos.
 
 ## Dataset 
