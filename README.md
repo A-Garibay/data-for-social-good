@@ -21,11 +21,7 @@ so that I can capture nostalgic-looking photos.
 
 ## Dataset 
 
-Include a hyperlink to the source of your dataset used for this project. Additionally, provide a short description of each column used from the dataset, and the data type. 
-
-Example: 
-
-Dataset: https://www.kaggle.com/datasets/sansuthi/global-co2-emissions 
+Dataset: https://www.kaggle.com/datasets/crawford/1000-cameras-dataset?select=camera_dataset.csv
 - **Country** (String) - name of the country 
 - **Population** (int) - number of people in the country 
 - **CO2Emissions** (double) - carbon dioxide emission in kilotons 
